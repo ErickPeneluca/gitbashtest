@@ -14,3 +14,4 @@ git remote -v<br />
 git tag<br />
 git show<br />
 eu deletei arquivos a partir da própria pasta mas sei que em uma situação empresarial onde não houvesse GUI eu provavelmente utilizaria o comando rm dentro do gitbash
+e eu não utilizei o .gitignore nessa atividade.
